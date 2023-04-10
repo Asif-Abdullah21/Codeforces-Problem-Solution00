@@ -1,0 +1,7 @@
+
+Customer ID: 5555
+Name: basusi
+Age: 62
+Mobile Number: 2147483647
+Address: 
+Gender: 
